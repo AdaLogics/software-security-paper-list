@@ -8,9 +8,27 @@ This repository contains a curated list of papers relevant to
 
 The list is divided into further sub-topics and we include a section called "General" which contains papers that either have not been sorted into a sub-topic yet or do not fit into any sub-topics.
 
+
+This list is maintained by [David Korczynski](https://twitter.com/Davkorcz) mostly, but PRs are very welcomed.
+
+## Download all automatically
 The `auto_download.py` script can be used to download either all of the papers or the papers for a given subtopic.
 
-This list is maintained by [David Korczynski](https://github.com/DavidKorczynski) mostly, but PRs are very welcomed.
+`auto_download.py` will create a directory `out` in the current working directory if its not already existing. Then it will create another folder in `out` with the name of the sub-topic you are choosing to download or `All` in case you download all papers.
+
+Example uses:
+```
+# Download all papers
+python ./auto_download.py All
+
+# Download all papers related to Fuzzing
+python ./auto_download.py Fuzzing
+
+# Download all papers related to Malware
+python ./auto_download.py Malware
+```
+
+# Papers
 
 ## General
 
