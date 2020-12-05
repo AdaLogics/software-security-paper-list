@@ -11,7 +11,7 @@ The list is divided into further sub-topics and we include a section called "Gen
 
 This list is maintained by [David Korczynski](https://twitter.com/Davkorcz). PRs are very welcomed.
 
-## Download all automatically
+### Download all automatically
 The `auto_download.py` script can be used to download either all of the papers or the papers for a given subtopic.
 
 `auto_download.py` will create a directory `out` in the current working directory if its not already existing. Then it will create another folder in `out` with the name of the sub-topic you are choosing to download or `All` in case you download all papers.
@@ -28,7 +28,7 @@ python ./auto_download.py Fuzzing
 python ./auto_download.py Malware
 ```
 
-## Other paper lists
+### Other paper lists
 * [Awesome fuzzing](https://github.com/cpuu/awesome-fuzzing)
 * [Recent Papers Related To Fuzzing](https://github.com/wcventure/FuzzingPaper)
 * [Awesome Virtualization](https://github.com/Wenzel/awesome-virtualization)
