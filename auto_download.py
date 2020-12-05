@@ -1,5 +1,5 @@
-import sys
 import os
+import sys
 import requests
 from pathlib import Path
 
@@ -18,6 +18,7 @@ def download_list(listname):
         grab_all = True
         should_grab = True
     else:
+        grab_all = False
         should_grab = False
 
     # Open the list and go through each bullet
@@ -64,4 +65,7 @@ def download_list(listname):
             else:
                 print("Skipping %s"%(line))
 
-download_list("All")
+if __name__ == "__main__":
+    if len(sys.argv) != 2:
+        print("Usage: python ./auto_download.py TOPIC_NAME")
+    download_list(sys.argv[1])
