@@ -9,7 +9,7 @@ This repository contains a curated list of papers relevant to
 The list is divided into further sub-topics and we include a section called "General" which contains papers that either have not been sorted into a sub-topic yet or do not fit into any sub-topics.
 
 
-This list is maintained by [David Korczynski](https://twitter.com/Davkorcz) mostly, but PRs are very welcomed.
+This list is maintained by [David Korczynski](https://twitter.com/Davkorcz). PRs are very welcomed.
 
 ## Download all automatically
 The `auto_download.py` script can be used to download either all of the papers or the papers for a given subtopic.
