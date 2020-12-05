@@ -28,6 +28,12 @@ python ./auto_download.py Fuzzing
 python ./auto_download.py Malware
 ```
 
+## Other paper lists
+* [Awesome fuzzing](https://github.com/cpuu/awesome-fuzzing)
+* [Recent Papers Related To Fuzzing](https://github.com/wcventure/FuzzingPaper)
+* [Awesome Virtualization](https://github.com/Wenzel/awesome-virtualization)
+
+
 # Papers
 
 * [General](#General)
