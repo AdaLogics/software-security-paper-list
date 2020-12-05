@@ -30,6 +30,12 @@ python ./auto_download.py Malware
 
 # Papers
 
+* [General](#General)
+* [Virtualisation](#Virtualisation)
+* [Fuzzing](#Fuzzing)
+* [Malware](#Malware)
+* [Binary analysis](#binary-analysis)
+
 ## General
 
 - [A Framework for File Format Fuzzing with Genetic Algorithms](https://trace.tennessee.edu/cgi/viewcontent.cgi?article=2402&context=utk_graddiss)
