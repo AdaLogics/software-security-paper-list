@@ -45,48 +45,33 @@ Table of contents:
 ## General
 
 - [A Randomized Dynamic Program Analysis Technique for Detecting Real Deadlocks](https://www.cis.upenn.edu/~mhnaik/papers/pldi09b.pdf)
-- [Tupni: Automatic Reverse Engineering of Input Formats](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/tupni-ccs08.pdf)
 - [Randomized Active Atomicity Violation Detection in Concurrent Programs](https://parlab.eecs.berkeley.edu/sites/all/parlab/files/Randomized%20Active%20Atomicity%20Violation%20Detection%20in%20Concurrent%20Programs.pdf)
 - [Privacy Oracle: a System for Finding Application Leaks with Black Box Differential Testing](https://homes.cs.washington.edu/~yoshi/papers/PrivacyOracle/privacyoracle-ccs2008.pdf)
-- [PEBIL: Efficient Static Binary Instrumentation for Linux](http://users.sdsc.edu/~lcarring/Papers/2010_ISPASS.pdf)
 - [TypeSan: Practical Type Confusion Detection](https://nebelwelt.net/publications/files/16CCS2.pdf)
 - [HexType: Efficient Detection of Type Confusion Errors for C++](https://nebelwelt.net/files/17CCS.pdf)
 - [Dynamic Test Generation To Find Integer Bugs in x86 Binary Linux Programs](https://people.eecs.berkeley.edu/~daw/papers/smartfuzz-use09.pdf)
 - [Vulcan Binary transformation in a distributed environment](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/tr-2001-50.pdf)
 - [Automated Detection, Exploitation, and Elimination of Double-Fetch Bugs using Modern CPU Features](https://arxiv.org/pdf/1711.01254.pdf)
-- [Angora: Efficient Fuzzing by Principled Search](https://web.cs.ucdavis.edu/~hchen/paper/chen2018angora.pdf)
 - [Android Permissions Demystified](https://people.eecs.berkeley.edu/~dawnsong/papers/2011%20Android%20permissions%20demystified.pdf)
-- [Well There’s Your Problem: Isolating the Crash-Inducing Bits in a Fuzzed File](https://resources.sei.cmu.edu/asset_files/TechnicalNote/2012_004_001_28149.pdf)
 - [Path-Exploration Lifting: Hi-Fi Tests for Lo-Fi Emulators](https://people.eecs.berkeley.edu/~dawnsong/papers/2012%20Path%20Exploration%20Lifting%20Hi%20Fi%20Tests%20for%20Lo%20Fi%20Emulators.pdf)
 - [Enforcing Forward-Edge Control-Flow Integrity in GCC & LLVM](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/42808.pdf)
 - [Robust Signatures for Kernel Data Structures](https://www.cc.gatech.edu/~brendan/ccs09_siggen.pdf)
-- [Cryptographic Function Detection in Obfuscated Binaries via Bit-precise Symbolic Loop Mapping](https://faculty.ist.psu.edu/wu/papers/CryptoHunt.pdf)
-- [RETracer: Triaging Crashes by Reverse Execution from Partial Memory Dumps](https://softsec.kaist.ac.kr/~sangkilc/papers/cui-icse16.pdf)
 - [DELTA: A Security Assessment Framework for Software-Defined Networks](https://pdfs.semanticscholar.org/ad1d/64e9e431681a088db680adcf1cb479fc22fc.pdf)
 - [Simplifying and Isolating Failure-Inducing Input](https://www.cs.purdue.edu/homes/xyzhang/fall07/Papers/delta-debugging.pdf)
-- [Designing New Operating Primitives to Improve Fuzzing Performance](https://multics69.github.io/pages/pubs/fuzzing-xu-ccs17.pdf)
-- [Dowsing for Overflows: A Guided Fuzzer to Find Buffer Boundary Violations](https://www.cs.vu.nl/~herbertb/papers/dowser_usenixsec13.pdf)
 - [Fitness-Guided Path Exploration in Dynamic Symbolic Execution](https://www.microsoft.com/en-us/research/wp-content/uploads/2009/06/dsn09-fitnex1.pdf)
 - [Enforceable Security Policies](https://www.cs.cornell.edu/fbs/publications/EnfSecPols.pdf)
 - [Enemy of the State: A State-Aware Black-Box Web Vulnerability Scanner](https://www.usenix.org/system/files/conference/usenixsecurity12/sec12-final225.pdf)
 - [Feedback-directed Random Test Generation](https://homes.cs.washington.edu/~mernst/pubs/feedback-testgen-icse2007.pdf)
 - [Probability-Based Parameter Selection for Black-Box Fuzz Testing](http://webblaze.cs.berkeley.edu/papers/FLAX.pdf)
 - [FLAX: Systematic Discovery of Client-side Validation Vulnerabilities in Rich Web Applications]()
-- [Singularity: Pattern Fuzzing for Worst Case Complexity](https://www.cs.utexas.edu/users/isil/fse18.pdf)
 - [Representation Dependence Testing using Program Inversion](https://core.ac.uk/download/pdf/207770249.pdf)
 - [Deriving Input Syntactic Structure From Execution](https://www.cs.purdue.edu/homes/xyzhang/Comp/fse08.pdf)
-- [Turning Programs against Each Other: High Coverage Fuzz-Testing using Binary-Code Mutation and Dynamic Slicing](https://www.ida.liu.se/~ulfka17/papers/FSE2015.pdf)
 - [SoftBound: Highly Compatible and Complete Spatial Memory Safety for C](https://www.cs.rutgers.edu/~santosh.nagarakatte/papers/pldi09_softbound.pdf)
-- [An Empirical Study of the Reliability of UNIX Utilities](ftp://ftp.cs.wisc.edu/paradyn/technical_papers/fuzz.pdf)
 - [Enhancing Memory Error Detection for Large-Scale Applications and Fuzz Testing](http://cps.kaist.ac.kr/papers/18-MEDS-han.pdf)
 - [CodeAlchemist: Semantics-Aware Code Generation to Find Vulnerabilities in JavaScript Engines](https://www.ndss-symposium.org/wp-content/uploads/2019/02/ndss2019_05A-5_Han_paper.pdf)
 - [Making Malory Behave Maliciously: Targeted Fuzzing of Android Execution Environments](https://www.software-lab.org/publications/icse2017-fuzzdroid.pdf)
-- [IFuzzer: An Evolutionary Interpreter Fuzzer using Genetic Programming](https://download.vusec.net/papers/ifuzzer-esorics16.pdf)
 - [IntelliDroid: A Targeted Input Generator for the Dynamic Analysis of Android Malware](https://security.csl.toronto.edu/papers/mwong_ndss2016.pdf)
 - [CETS: Compiler-Enforced Temporal Safety for C](https://www.cs.rutgers.edu/~santosh.nagarakatte/papers/ismm10-cets.pdf)
-- [KiF: A stateful SIP Fuzzer](https://hal.inria.fr/inria-00166947/PDF/Kif_A_stateful_SIP_Fuzzer.pdf)
-- [GRT: Program-Analysis-Guided Random Testing](https://people.kth.se/~artho/papers/lei-ase2015.pdf)
-- [Automated Testing for SQL Injection Vulnerabilities: An Input Mutation Approach](https://www.researchgate.net/profile/Cu_Nguyen/publication/262048518_Automated_Testing_for_SQL_Injection_Vulnerabilities_An_Input_Mutation_Approach/links/00b495367f13ad00a5000000/Automated-Testing-for-SQL-Injection-Vulnerabilities-An-Input-Mutation-Approach.pdf)
 - [Dynamic Taint Analysis for Automatic Detection, Analysis, and Signature Generation of Exploits on Commodity Software](http://bitblaze.cs.berkeley.edu/papers/taintcheck-full.pdf)
 - [NEZHA: Efficient Domain-Independent Differential Testing](https://www.cs.columbia.edu/~suman/docs/nezha.pdf)
 - [Prospex: Protocol Specification Extraction](https://sites.cs.ucsb.edu/~chris/research/doc/oakland09_prospex.pdf)
@@ -96,8 +81,6 @@ Table of contents:
 - [QTEP: Quality-Aware Test Case Prioritization](http://asset.uwaterloo.ca/qtep/qtep.pdf)
 - [Race Directed Random Testing of Concurrent Programs](https://www.cs.columbia.edu/~junfeng/09fa-e6998/papers/racefuzz.pdf)
 - [Type Casting Verification: Stopping an Emerging Attack Vector](https://www.usenix.org/system/files/conference/usenixsecurity15/sec15-paper-lee.pdf)
-- [Digtool: A Virtualization-Based Framework for Detecting Kernel Vulnerabilities](https://www.usenix.org/system/files/conference/usenixsecurity17/sec17-pan.pdf)
-- [Autodafe: an Act of Software Torture](https://infoscience.epfl.ch/record/140525/files/Vuagnoux05.pdf)
 - [Towards Optimization-Safe Systems: Analyzing the Impact of Undefined Behavior](https://people.csail.mit.edu/nickolai/papers/wang-stack.pdf)
 - [Disco: Running commodity operating systems on scalable multiprocessors](http://www.cs.cornell.edu/courses/cs6411/2018sp/papers/bugnion97disco.pdf)
 - [Jump-Oriented Programming: A New Class of Code-Reuse Attack](https://people.engr.ncsu.edu/tkbletsc/pubs/JOP.pdf)
@@ -131,7 +114,7 @@ Table of contents:
 - [Valgrind: A framework for heavyweight dynamic binary instrumentation](https://www.cs.columbia.edu/~junfeng/09fa-e6998/papers/valgrind.pdf)
 - [Pin: Building Customized Program Analysis Tools with Dynamic Instrumentation](https://www.cs.ucr.edu/~heng/teaching/cs260-winter2017/luk05pin.pdf)
 - [Llvm: A compilation framework for lifelong program analysis & transformation](https://llvm.org/pubs/2003-09-30-LifelongOptimizationTR.pdf)
-
+- [PEBIL: Efficient Static Binary Instrumentation for Linux](http://users.sdsc.edu/~lcarring/Papers/2010_ISPASS.pdf)
 
 
 ## Sanitizer
@@ -146,8 +129,14 @@ Table of contents:
 - [Kvm: the linux virtual machine monitor](https://www.kernel.org/doc/ols/2007/ols2007v1-pages-225-230.pdf)
 - [Virtualization without direct execution or jitting: Designing a portable virtual machine infrastructure.](http://bochs.sourceforge.net/Virtualization_Without_Hardware_Final.pdf)
 - [Argos: an emulator for fingerprinting zero-day attacks](https://www.few.vu.nl/argos/papers/argos_eurosys06.pdf)
+- [Digtool: A Virtualization-Based Framework for Detecting Kernel Vulnerabilities](https://www.usenix.org/system/files/conference/usenixsecurity17/sec17-pan.pdf)
+
+
+
+
 
 ## Fuzzing
+- [An Empirical Study of the Reliability of UNIX Utilities](ftp://ftp.cs.wisc.edu/paradyn/technical_papers/fuzz.pdf)
 - [Evaluating Fuzz Testing](https://arxiv.org/pdf/1808.09700.pdf)
 - [Billions and Billions of Constraints: Whitebox Fuzz Testing in Production](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/main-may10.pdf)
 - [Fuzzing: The State of the Art](https://fuzzinginfo.files.wordpress.com/2012/05/dsto-tn-1043-pr.pdf)
@@ -241,6 +230,18 @@ Table of contents:
 - [Synthesizing Racy Tests](https://www.cs.purdue.edu/homes/suresh/papers/pldi15a.pdf)
 - [Coverage-Directed Differential Testing of JVM Implementations](https://chengniansun.bitbucket.io/papers/pldi16.pdf)
 - [Synthesizing Program Input Grammars](https://arxiv.org/pdf/1608.01723.pdf)
+- [Angora: Efficient Fuzzing by Principled Search](https://web.cs.ucdavis.edu/~hchen/paper/chen2018angora.pdf)
+- [Well There’s Your Problem: Isolating the Crash-Inducing Bits in a Fuzzed File](https://resources.sei.cmu.edu/asset_files/TechnicalNote/2012_004_001_28149.pdf)
+- [IFuzzer: An Evolutionary Interpreter Fuzzer using Genetic Programming](https://download.vusec.net/papers/ifuzzer-esorics16.pdf)
+- [Designing New Operating Primitives to Improve Fuzzing Performance](https://multics69.github.io/pages/pubs/fuzzing-xu-ccs17.pdf)
+- [Dowsing for Overflows: A Guided Fuzzer to Find Buffer Boundary Violations](https://www.cs.vu.nl/~herbertb/papers/dowser_usenixsec13.pdf)
+- [Automated Testing for SQL Injection Vulnerabilities: An Input Mutation Approach](https://www.researchgate.net/profile/Cu_Nguyen/publication/262048518_Automated_Testing_for_SQL_Injection_Vulnerabilities_An_Input_Mutation_Approach/links/00b495367f13ad00a5000000/Automated-Testing-for-SQL-Injection-Vulnerabilities-An-Input-Mutation-Approach.pdf)
+- [Turning Programs against Each Other: High Coverage Fuzz-Testing using Binary-Code Mutation and Dynamic Slicing](https://www.ida.liu.se/~ulfka17/papers/FSE2015.pdf)
+- [KiF: A stateful SIP Fuzzer](https://hal.inria.fr/inria-00166947/PDF/Kif_A_stateful_SIP_Fuzzer.pdf)
+- [GRT: Program-Analysis-Guided Random Testing](https://people.kth.se/~artho/papers/lei-ase2015.pdf)
+- [Autodafe: an Act of Software Torture](https://infoscience.epfl.ch/record/140525/files/Vuagnoux05.pdf)
+- [Singularity: Pattern Fuzzing for Worst Case Complexity](https://www.cs.utexas.edu/users/isil/fse18.pdf)
+
 
 
 
@@ -342,3 +343,6 @@ Table of contents:
 - [Architecture-independent dynamic information flow tracking](https://repository.library.northeastern.edu/files/neu:1345/fulltext.pdf)
 - [Decompilation of binary programs.](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.14.8073&rep=rep1&type=pdf)
 - [A Platform for Secure Static Binary Instrumentation](http://seclab.cs.sunysb.edu/seclab/pubs/vee14.pdf)
+- [Tupni: Automatic Reverse Engineering of Input Formats](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/tupni-ccs08.pdf)
+- [RETracer: Triaging Crashes by Reverse Execution from Partial Memory Dumps](https://softsec.kaist.ac.kr/~sangkilc/papers/cui-icse16.pdf)
+- [Cryptographic Function Detection in Obfuscated Binaries via Bit-precise Symbolic Loop Mapping](https://faculty.ist.psu.edu/wu/papers/CryptoHunt.pdf)
