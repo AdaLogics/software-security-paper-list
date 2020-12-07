@@ -130,6 +130,9 @@ Table of contents:
 - [Pin: Building Customized Program Analysis Tools with Dynamic Instrumentation](https://www.cs.ucr.edu/~heng/teaching/cs260-winter2017/luk05pin.pdf)
 - [Llvm: A compilation framework for lifelong program analysis & transformation](https://llvm.org/pubs/2003-09-30-LifelongOptimizationTR.pdf)
 - [PEBIL: Efficient Static Binary Instrumentation for Linux](http://users.sdsc.edu/~lcarring/Papers/2010_ISPASS.pdf)
+- [DECAF++: Elastic Whole-System Dynamic Taint Analysis](https://www.cs.ucr.edu/~heng/pubs/DECAF++.pdf)
+- [Make It Work, Make It Right, Make It Fast: Building a Platform-Neutral Whole-System Dynamic Binary Analysis Platform](https://www.cs.ucr.edu/~heng/pubs/issta14.pdf)
+- [Repeateable Reverse Engineering for the Greateer Good with PANDA](https://mice.cs.columbia.edu/getTechreport.php?techreportID=1588&disposition=inline&format=pdf)
 
 
 ## Sanitizer
@@ -336,8 +339,6 @@ Table of contents:
 - [Hulk: Eliciting Malicious Behavior in Browser Extensions](https://www.usenix.org/system/files/conference/usenixsecurity14/sec14-paper-kapravelos.pdf)
 - [Mining specifications of malicious behavior](https://publik.tuwien.ac.at/files/pub-inf_5316.pdf)
 - [When Malware is Packin' Heat; Limits of Machine Learning Classifiers Based on Static Analysis Features](https://www.ndss-symposium.org/wp-content/uploads/2020/02/24310-paper.pdf)
-
-
 
 
 
