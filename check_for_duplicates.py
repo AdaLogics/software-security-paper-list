@@ -13,14 +13,14 @@ for l_1 in lines:
         continue
     occurrences = 0
     for l_2 in lines:
-        if l_1[0:25] == l_2[0:25]:
+        if l_1.lower()[0:25] == l_2.lower()[0:25]:
             occurrences += 1
 
     if occurrences > 1:
         print("Double line detected %d times: %s"%(occurrences, l_1.replace("\n", "")))
 
         # Only add if it is not in the dict
-        set_entry = l_1[0:25]
+        set_entry = l_1[0:25].lower()
         if set_entry not in dups:
             dups.add(set_entry)
             lines_without_duplicates.append(l_1)
