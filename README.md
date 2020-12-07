@@ -43,7 +43,6 @@ Table of contents:
 * [Binary analysis](#binary-analysis)
 
 ## General
-
 - [A Randomized Dynamic Program Analysis Technique for Detecting Real Deadlocks](https://www.cis.upenn.edu/~mhnaik/papers/pldi09b.pdf)
 - [Randomized Active Atomicity Violation Detection in Concurrent Programs](https://parlab.eecs.berkeley.edu/sites/all/parlab/files/Randomized%20Active%20Atomicity%20Violation%20Detection%20in%20Concurrent%20Programs.pdf)
 - [Privacy Oracle: a System for Finding Application Leaks with Black Box Differential Testing](https://homes.cs.washington.edu/~yoshi/papers/PrivacyOracle/privacyoracle-ccs2008.pdf)
@@ -94,6 +93,13 @@ Table of contents:
 - [ROPMEMU: A Framework for the Analysis of Complex Code-Reuse Attacks](http://www.s3.eurecom.fr/docs/asiaccs16_graziano.pdf)
 - [A virtual machine based information flow control system for policy enforcement](https://www.cs.vu.nl/~ast/Publications/Papers/entcs-2008.pdf)
 - [The geometry of innocent flesh on the bone: Return-into-libc without function calls (on the x86)](https://hovav.net/ucsd/dist/geometry.pdf)
+- [SPIDER: Enabling Fast Patch Propagation In Related Software Repositories](https://seclab.cs.ucsb.edu/files/publications/machiry2020_spider.pdf)
+- [HALucinator: Firmware Re-hosting Through Abstraction Layer Emulation](https://seclab.cs.ucsb.edu/files/publications/gustafson2020_halucinator.pdf)
+- [PhishTime: Continuous Longitudinal Measurement of the Effectiveness of Anti-phishing Blacklists](https://www.usenix.org/system/files/sec20-oest-phishtime.pdf)
+
+
+## Cyber-physical
+- [TRUST.IO: Protecting Physical Interfaces on Cyber-physical Systems](https://seclab.cs.ucsb.edu/files/publications/Spensky2020_Trust.pdf)
 
 ## Symbolic execution
 - [Symbolic Execution and Program Testing](https://www.cs.umd.edu/class/fall2014/cmsc631/papers/king-symbolic-execution.pdf)
@@ -109,6 +115,9 @@ Table of contents:
 - [CAB-Fuzz: Practical Concolic Testing Techniques for COTS Operating Systems](https://www.usenix.org/system/files/conference/atc17/atc17-kim.pdf)
 - [Driller: Augmenting Fuzzing Through Selective Symbolic Execution](https://sites.cs.ucsb.edu/~vigna/publications/2016_NDSS_Driller.pdf)
 - [Enhancing Symbolic Execution with Veritesting](https://users.ece.cmu.edu/~aavgerin/papers/veritesting-icse-2014.pdf)
+- [SYMBION: Interleaving Symbolic with Concrete Execution](https://seclab.cs.ucsb.edu/files/publications/gritti2020_symbion.pdf)
+
+
 
 ## Program instrumentation
 - [Valgrind: A framework for heavyweight dynamic binary instrumentation](https://www.cs.columbia.edu/~junfeng/09fa-e6998/papers/valgrind.pdf)
@@ -241,7 +250,7 @@ Table of contents:
 - [GRT: Program-Analysis-Guided Random Testing](https://people.kth.se/~artho/papers/lei-ase2015.pdf)
 - [Autodafe: an Act of Software Torture](https://infoscience.epfl.ch/record/140525/files/Vuagnoux05.pdf)
 - [Singularity: Pattern Fuzzing for Worst Case Complexity](https://www.cs.utexas.edu/users/isil/fse18.pdf)
-
+- [Exploring Abstraction Functions in Fuzzing](https://sites.cs.ucsb.edu/~vigna/publications/2020_CNS_FuzzSense.pdf)
 
 
 
@@ -312,7 +321,7 @@ Table of contents:
 - [Cxpinspector: Hypervisorbased, hardware-assisted system monitoring](https://www.syssec.ruhr-uni-bochum.de/media/emma/veroeffentlichungen/2012/11/26/TR-HGI-2012-002.pdf)
 - [A generic approach to automatic deobfuscation of executable code](https://www.sysnet.ucsd.edu/~bjohanne/assets/papers/2015oakland.pdf)
 - [Symbolic execution of obfuscated code](https://www2.cs.arizona.edu/people/debray/Publications/ccs2015-symbolic.pdf)
-- [V2e: Combining hardware virtualization and softwareemulation for transparent and extensible malware analysis](https://www.cs.ucr.edu/~heng/pubs/v2e.pdf)
+- [V2e: Combining hardware virtualization and software emulation for transparent and extensible malware analysis](https://www.cs.ucr.edu/~heng/pubs/v2e.pdf)
 - [Droidscope: Seamlessly reconstructing the os and dalvik semantic views for dynamic android malware analysis](https://www.usenix.org/system/files/conference/usenixsecurity12/sec12-final107.pdf)
 - [Panorama: Capturing system-wide information flow for malware detection and analysis](http://bitblaze.cs.berkeley.edu/papers/panorama.pdf)
 - [Dissecting android malware: Characterization and Evolution](https://www.csc2.ncsu.edu/faculty/xjiang4/pubs/OAKLAND12.pdf)
@@ -320,7 +329,7 @@ Table of contents:
 - [Input Generation via Decomposition and Re-Stitching: Finding Bugs in Malware](http://bitblaze.cs.berkeley.edu/papers/restitching.pdf)
 - [Hulk: Eliciting Malicious Behavior in Browser Extensions](https://www.usenix.org/system/files/conference/usenixsecurity14/sec14-paper-kapravelos.pdf)
 - [Mining specifications of malicious behavior](https://publik.tuwien.ac.at/files/pub-inf_5316.pdf)
-
+- [When Malware is Packin' Heat; Limits of Machine Learning Classifiers Based on Static Analysis Features](https://www.ndss-symposium.org/wp-content/uploads/2020/02/24310-paper.pdf)
 
 
 
@@ -346,3 +355,4 @@ Table of contents:
 - [Tupni: Automatic Reverse Engineering of Input Formats](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/tupni-ccs08.pdf)
 - [RETracer: Triaging Crashes by Reverse Execution from Partial Memory Dumps](https://softsec.kaist.ac.kr/~sangkilc/papers/cui-icse16.pdf)
 - [Cryptographic Function Detection in Obfuscated Binaries via Bit-precise Symbolic Loop Mapping](https://faculty.ist.psu.edu/wu/papers/CryptoHunt.pdf)
+- [Karonte: Detecting Insecure Multi-binary Interactions in Embedded Firmware](https://sefcom.asu.edu/publications/karonte-oakland2020.pdf)
