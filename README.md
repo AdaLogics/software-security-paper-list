@@ -6,15 +6,15 @@ This repository contains a curated list of papers relevant to
 * program analysis
 * systems security
 
-The list is divided into further sub-topics and we include a section called "General" which contains papers that either have not been sorted into a sub-topic yet or do not fit into any sub-topics.
+The list is divided into further sub-topics and include a sub-topic called "General" for papers that either have not been sorted into a sub-topic yet or do not fit into any sub-topics.
 
 
-This list is maintained by [David Korczynski](https://twitter.com/Davkorcz). PRs are very welcomed.
+This list is maintained by [David Korczynski](https://twitter.com/Davkorcz). PRs are very welcome.
 
 ### Download all automatically
 The `auto_download.py` script can be used to download either all of the papers or the papers for a given subtopic.
 
-`auto_download.py` will create a directory `out` in the current working directory if its not already existing. Then it will create another folder in `out` with the name of the sub-topic you are choosing to download or `All` in case you download all papers.
+`auto_download.py` will create a directory `out` in the current working directory if it does not already exist. Then it will create another folder in `out` with the name of the sub-topic you are choosing to download or `All` in case you download all papers.
 
 Example uses:
 ```
