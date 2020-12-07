@@ -96,6 +96,12 @@ Table of contents:
 - [SPIDER: Enabling Fast Patch Propagation In Related Software Repositories](https://seclab.cs.ucsb.edu/files/publications/machiry2020_spider.pdf)
 - [HALucinator: Firmware Re-hosting Through Abstraction Layer Emulation](https://seclab.cs.ucsb.edu/files/publications/gustafson2020_halucinator.pdf)
 - [PhishTime: Continuous Longitudinal Measurement of the Effectiveness of Anti-phishing Blacklists](https://www.usenix.org/system/files/sec20-oest-phishtime.pdf)
+- [Exploiting Uses of Uninitialized Stack Variables in Linux Kernels to Leak Kernel Pointers](https://www.usenix.org/system/files/woot20-paper-cho.pdf)
+- [Sleak: automating address space layout derandomization](https://sites.cs.ucsb.edu/~vigna/publications/2019_ACSAC_Sleak.pdf)
+- [Matched and Mismatched SOCs: A Qualitative Study on Security Operations Center Issues](https://adamdoupe.com/publications/matched-and-mismatched-socs-ccs2019.pdf)
+
+
+
 
 
 ## Cyber-physical
@@ -356,3 +362,5 @@ Table of contents:
 - [RETracer: Triaging Crashes by Reverse Execution from Partial Memory Dumps](https://softsec.kaist.ac.kr/~sangkilc/papers/cui-icse16.pdf)
 - [Cryptographic Function Detection in Obfuscated Binaries via Bit-precise Symbolic Loop Mapping](https://faculty.ist.psu.edu/wu/papers/CryptoHunt.pdf)
 - [Karonte: Detecting Insecure Multi-binary Interactions in Embedded Firmware](https://sefcom.asu.edu/publications/karonte-oakland2020.pdf)
+- [BootKeeper: Validating Software Integrity Properties on Boot Firmware Images](https://arxiv.org/pdf/1903.12505.pdf)
+- [BinTrimmer: Towards Static Binary Debloating Through Abstract Interpretation](https://sites.cs.ucsb.edu/~chris/research/doc/dimva19_bintrimmer.pdf)
