@@ -1,15 +1,19 @@
 # Software security paper list
 
 
-This repository contains a curated list of papers relevant to
-* software security
-* program analysis
-* systems security
+This repository contains a curated list of papers relevant to:
+* software security;
+* program analysis; and
+* systems security.
 
 The list is divided into further sub-topics and include a sub-topic called "General" for papers that either have not been sorted into a sub-topic yet or do not fit into any sub-topics.
 
 
-This list is maintained by [David Korczynski](https://twitter.com/Davkorcz). PRs are very welcome.
+This list is maintained by:
+* [David Korczynski](https://twitter.com/Davkorcz); and
+* [Adam Korczynski](https://twitter.com/AdamKorcz4)
+
+PRs are very welcome.
 
 ### Download all automatically
 The `auto_download.py` script can be used to download either all of the papers or the papers for a given subtopic.
