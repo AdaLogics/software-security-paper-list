@@ -120,7 +120,10 @@ Table of contents:
 - [Taming Transactions: Towards Hardware-Assisted Control Flow Integrity Using Transactional Memory](https://sites.cs.ucsb.edu/~vigna/publications/2016_RAID_Transactional.pdf)
 - [SOK: (State of) The Art of War: Offensive Techniques in Binary Analysis](https://sites.cs.ucsb.edu/~vigna/publications/2016_SP_angrSoK.pdf)
 - [TriggerScope: Towards Detecting Logic Bombs in Android Applications](https://sites.cs.ucsb.edu/~vigna/publications/2016_SP_Triggerscope.pdf)
-
+- [Quickly generating diverse valid test inputs with reinforcement learning](https://people.eecs.berkeley.edu/~rohanpadhye/files/rlcheck-icse20.pdf)
+- [Mining Temporal Properties of Data Invariants](https://www.carolemieux.com/icse15-quarry-src-abstract.pdf)
+- [General LTL Specification Mining](https://www.cs.ubc.ca/~bestchai/papers/texada-ase15_final.pdf)
+- [Investigating Program BehaviorUsing the Texada LTL Specifications Miner](https://www.carolemieux.com/texada_ase15_demos_final.pdf)
 
 
 
@@ -142,7 +145,8 @@ Table of contents:
 - [Driller: Augmenting Fuzzing Through Selective Symbolic Execution](https://sites.cs.ucsb.edu/~vigna/publications/2016_NDSS_Driller.pdf)
 - [Enhancing Symbolic Execution with Veritesting](https://users.ece.cmu.edu/~aavgerin/papers/veritesting-icse-2014.pdf)
 - [SYMBION: Interleaving Symbolic with Concrete Execution](https://seclab.cs.ucsb.edu/files/publications/gritti2020_symbion.pdf)
-
+- [AutoPandas: Neural-Backed Generators for ProgramSynthesis](https://people.eecs.berkeley.edu/~ksen/papers/autopandas2.pdf)
+- 
 
 
 ## Program instrumentation
@@ -280,6 +284,13 @@ Table of contents:
 - [Autodafe: an Act of Software Torture](https://infoscience.epfl.ch/record/140525/files/Vuagnoux05.pdf)
 - [Singularity: Pattern Fuzzing for Worst Case Complexity](https://www.cs.utexas.edu/users/isil/fse18.pdf)
 - [Exploring Abstraction Functions in Fuzzing](https://sites.cs.ucsb.edu/~vigna/publications/2020_CNS_FuzzSense.pdf)
+- [FuzzFactory: domain-specific fuzzing with waypoints](https://dl.acm.org/doi/pdf/10.1145/3360600)
+- [Zest: Validity Fuzzing and Parametric Generators for Effective Random Testing](https://www.researchgate.net/profile/Koushik_Sen8/publication/329388154_Zest_Validity_Fuzzing_and_Parametric_Generators_for_Effective_Random_Testing/links/5c45bb0a299bf12be3d7f286/Zest-Validity-Fuzzing-and-Parametric-Generators-for-Effective-Random-Testing.pdf)
+- [Semantic fuzzing with zest](https://arxiv.org/pdf/1812.00078.pdf)
+- [JQF: coverage-guided property-based testing in Java](https://people.eecs.berkeley.edu/~rohanpadhye/files/jqf-issta19.pdf)
+- [FUDGE: fuzz driver generation at scale](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/df9df05d2f5bfe279dc1c0ce6cf51072d5ee1feb.pdf)
+- [FairFuzz: Targeting Rare Branches to Rapidly Increase Greybox Fuzz Testing Coverage](https://arxiv.org/pdf/1709.07101.pdf)
+
 
 
 
