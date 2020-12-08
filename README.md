@@ -99,7 +99,27 @@ Table of contents:
 - [Exploiting Uses of Uninitialized Stack Variables in Linux Kernels to Leak Kernel Pointers](https://www.usenix.org/system/files/woot20-paper-cho.pdf)
 - [Sleak: automating address space layout derandomization](https://sites.cs.ucsb.edu/~vigna/publications/2019_ACSAC_Sleak.pdf)
 - [Matched and Mismatched SOCs: A Qualitative Study on Security Operations Center Issues](https://adamdoupe.com/publications/matched-and-mismatched-socs-ccs2019.pdf)
-
+- [GuardION: Practical Mitigation of DMA-Based Rowhammer Attacks on ARM](https://research.vu.nl/files/75478203/Veen2018_Chapter_GuardIONPracticalMitigationOfD.pdf)
+- [Broken Fingers: On the Usage of the Fingerprint API in Android](https://reyammer.io/publications/2018_ndss_fingerprint.pdf)
+- [Measuring E-mail header injections on the world wide web](https://sites.cs.ucsb.edu/~chris/research/doc/sac18_email.pdf)
+- [Detecting Deceptive Reviews Using Generative Adversarial Networks](https://arxiv.org/pdf/1805.10364.pdf)
+- [HeapHopper: Bringing Bounded Model Checking to Heap Implementation Security](https://www.usenix.org/system/files/conference/usenixsecurity18/sec18-eckert.pdf)
+- [Rampart: Protecting Web Applications from CPU-Exhaustion Denial-of-Service Attacks](https://www.usenix.org/system/files/conference/usenixsecurity18/sec18-meng.pdf)
+- [Exploitation and Mitigation of Authentication Schemes Based on Device-Public Information](https://dl.acm.org/doi/pdf/10.1145/3134600.3134615)
+- [Piston: Uncooperative Remote Runtime Patching](https://sites.cs.ucsb.edu/~chris/research/doc/acsac17_piston.pdf)
+- [Rise of the HaCRS: Augmenting Autonomous Cyber Reasoning Systems with Human Assistance](https://acmccs.github.io/papers/p347-shoshitaishviliA.pdf)
+- [Gossip: Automatically Identifying Malicious Domains from Mailing List Discussions](https://sites.cs.ucsb.edu/~vigna/publications/2017_AsiaCCS_gossip.pdf)
+- [POISED: Spotting Twitter Spam Off the Beaten Paths](https://arxiv.org/pdf/1708.09058.pdf)
+- [How Shall We Play a Game?: A Game-theoretical Model for Cyber-warfare Games](https://users.ece.cmu.edu/~youzhib/paper/bao2017csf.pdf)
+- [Obfuscation-Resilient Privacy Leak Detection for Mobile Apps Through Differential Analysis](https://reyammer.io/publications/2017_ndss_agrigento.pdf)
+- [BOOMERANG: Exploiting the Semantic Gap in Trusted Execution Environments](https://sites.cs.ucsb.edu/~cspensky/pdfs/ndss17-final227.pdf)
+- [Something from Nothing (There): Collecting Global IPv6 Datasets from DNS](https://sites.cs.ucsb.edu/~vigna/publications/2017_PAM_CollectingIPv6.pdf)
+- [BootStomp: On the Security of Bootloaders in Mobile Devices](https://www.usenix.org/system/files/conference/usenixsecurity17/sec17-redini.pdf)
+- [DR. CHECKER: A Soundy Analysis for Linux Kernel Drivers](https://www.usenix.org/system/files/conference/usenixsecurity17/sec17-machiry.pdf)
+- [Going Native: Using a Large-Scale Analysis of Android Apps to Create a Practical Native-Code Sandboxing Policy](https://www.lasca.ic.unicamp.br/paulo/papers/2016-NDSS-vitor.afonso-going.native.android.pdf)
+- [Taming Transactions: Towards Hardware-Assisted Control Flow Integrity Using Transactional Memory](https://sites.cs.ucsb.edu/~vigna/publications/2016_RAID_Transactional.pdf)
+- [SOK: (State of) The Art of War: Offensive Techniques in Binary Analysis](https://sites.cs.ucsb.edu/~vigna/publications/2016_SP_angrSoK.pdf)
+- [TriggerScope: Towards Detecting Logic Bombs in Android Applications](https://sites.cs.ucsb.edu/~vigna/publications/2016_SP_Triggerscope.pdf)
 
 
 
@@ -339,6 +359,13 @@ Table of contents:
 - [Hulk: Eliciting Malicious Behavior in Browser Extensions](https://www.usenix.org/system/files/conference/usenixsecurity14/sec14-paper-kapravelos.pdf)
 - [Mining specifications of malicious behavior](https://publik.tuwien.ac.at/files/pub-inf_5316.pdf)
 - [When Malware is Packin' Heat; Limits of Machine Learning Classifiers Based on Static Analysis Features](https://www.ndss-symposium.org/wp-content/uploads/2020/02/24310-paper.pdf)
+- [Neurlux: dynamic malware analysis without feature engineering](https://arxiv.org/pdf/1910.11376.pdf)
+- [Using Loops For Malware Classification Resilient to Feature-unaware Perturbations](https://sites.cs.ucsb.edu/~chris/research/doc/acsac18_loops.pdf)
+- [Cloud Strife: Mitigating the Security Risks of Domain-Validated Certificates](https://sites.cs.ucsb.edu/~vigna/publications/2018_NDSS_CloudStrife.pdf)
+- [MineSweeper: An In-depth Look into Drive-by Cryptocurrency Mining and Its Defense](https://download.vusec.net/papers/minesweeper_ccs18.pdf)
+
+
+
 
 
 
@@ -365,3 +392,4 @@ Table of contents:
 - [Karonte: Detecting Insecure Multi-binary Interactions in Embedded Firmware](https://sefcom.asu.edu/publications/karonte-oakland2020.pdf)
 - [BootKeeper: Validating Software Integrity Properties on Boot Firmware Images](https://arxiv.org/pdf/1903.12505.pdf)
 - [BinTrimmer: Towards Static Binary Debloating Through Abstract Interpretation](https://sites.cs.ucsb.edu/~chris/research/doc/dimva19_bintrimmer.pdf)
+- [Ramblr: Making Reassembly Great Again](https://www.ndss-symposium.org/wp-content/uploads/2017/09/ndss2017_10-5_Wang_paper_0.pdf)
