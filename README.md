@@ -230,6 +230,22 @@ Table of contents:
 - [VTrust: Regaining Trust on Virtual Calls](https://dingelish.com/vtrust.pdf)
 - [PSHAPE: Automatically Combining Gadgets for Arbitrary Method Execution](PSHAPE: Automatically Combining Gadgets for Arbitrary Method Execution)
 - [malWASH: Washing Malware to Evade Dynamic Analysis](https://www.usenix.org/system/files/conference/woot16/woot16-paper-ispoglou.pdf)
+- [Klotski: Efficient Obfuscated Execution against Controlled-Channel Attacks](https://www.cs.ucr.edu/~csong/asplos20-klotski.pdf)
+- [PatchScope: Memory Object Centric Patch Diffing](https://www.cs.ucr.edu/~heng/pubs/PatchScope_ccs20.pdf)
+- [Chaser: An Enhanced Fault Injection Tool for Tracing Soft Errors in MPI Applications](https://www.cs.ucr.edu/~heng/pubs/Chaser.pdf)
+- [DeepBinDiff: Learning Program-Wide Code Representations for Binary Diffing](https://www.ndss-symposium.org/wp-content/uploads/2020/02/24311-paper.pdf)
+- [Parallel Space Traveling: A Security Analysis of App-Level Virtualization in Android](https://www.cs.ucr.edu/~heng/pubs/sacmat2020.pdf)
+- [Be Sensitive and Collaborative: Analyzing Impact of Coverage Metrics in Greybox Fuzzing](https://www.usenix.org/system/files/raid2019-wang-jinghan.pdf)
+- [Automatic Generation of Non-intrusive Updates for Third-Party Libraries in Android Applications](https://www.usenix.org/system/files/raid2019-duan.pdf)
+- [ChaffyScript: Vulnerability-Agnostic Defense of JavaScript Exploits via Memory Perturbation](https://www.cs.ucr.edu/~heng/pubs/ChaffyScript_securecomm2019.pdf)
+- [FIRM-AFL: High-Throughput Greybox Fuzzing of IoT Firmware via Augmented Process Emulation](https://www.cs.ucr.edu/~heng/pubs/FirmAFL.pdf)
+- [DeepMem: Learning Graph Neural Network Models for Fast and Robust Memory Forensic Analysis](https://www.cs.ucr.edu/~heng/pubs/deepmem_ccs18.pdf)
+- [Things You May Not Know About Android (Un)Packers: A Systematic Study based on Whole-System Emulation](https://homes.luddy.indiana.edu/xw7/papers/duan2018ndss.pdf)
+- [Measuring and Disrupting Anti-Adblockers Using Differential Execution Analysis](https://homepage.divms.uiowa.edu/~mshafiq/files/adblock-ndss2018.pdf)
+- [Extracting Conditional Formulas for Cross-Platform Bug Search](https://www.cs.ucr.edu/~heng/pubs/asiaccs2017.pdf)
+- [Neural Network-based Graph Embedding for Cross-Platform Binary Code Similarity Detection](https://arxiv.org/pdf/1708.06525.pdf)
+- [Dark Hazard: Learning-based, Large-Scale Discovery of Hidden Sensitive Operations in Android Apps](https://www.cs.ucr.edu/~heng/pubs/ndss2017.pdf)
+- [JSForce: A Forced Execution Engine for Malicious JavaScript Detection](https://arxiv.org/pdf/1701.07860.pdf)
 
 
 ## Cyber-physical
