@@ -164,8 +164,6 @@ Table of contents:
 - [Revolver: An Automated Approach to the Detection of Evasive Web-based Malware](https://www.yancomm.net/papers/2013%20-%20USENIX%20Security%20-%20Revolver.pdf)
 - [Steal This Movie: Automatically Bypassing DRM Protection in Streaming Media Services](https://www.usenix.org/system/files/conference/usenixsecurity13/sec13-paper_wang_3.pdf)
 - [Two years of short URLs internet measurement: security threats and countermeasures](https://seclab.cs.ucsb.edu/files/publications/Maggi2013Two_years.pdf)
-- [Jarhead analysis and detection of malicious Java applets](https://publications.sba-research.org/publications/acsac12_jarhead.pdf)
-- [Blacksheep: detecting compromised hosts in homogeneous crowds](https://www.yancomm.net/papers/2012%20-%20CCS%20-%20Blacksheep.pdf)
 - [PeerPress: utilizing enemies' P2P strength against them](https://people.engr.tamu.edu/guofei/paper/PeerPress-CCS12.pdf)
 - [You are what you include: large-scale evaluation of remote javascript inclusions](https://www.kapravelos.com/publications/jsinclusions-CCS12.pdf)
 - [A Static, Packer-Agnostic Filter to Detect Similar Malware Samples](https://sites.cs.ucsb.edu/~chris/research/doc/dimva12_unpacked.pdf)
@@ -185,25 +183,9 @@ Table of contents:
 - [Computing summaries of string loops in C for better testing and refactoring](https://srg.doc.ic.ac.uk/files/papers/loops-pldi-19.pdf)
 - [A segmented memory model for symbolic execution](https://srg.doc.ic.ac.uk/files/papers/segmem-esecfse-19.pdf)
 - [FreeDA: deploying incompatible stock dynamic analyses in production via multi-version execution](https://srg.doc.ic.ac.uk/files/papers/freeda-cf-18.pdf)
-- [Chopped symbolic execution](https://srg.doc.ic.ac.uk/files/papers/chopper-icse-18.pdf)
-- [PARTI: a multi-interval theory solver for symbolic execution](https://srg.doc.ic.ac.uk/files/papers/parti-ase-18.pdf)
-- [Accelerating array constraints in symbolic execution](https://srg.doc.ic.ac.uk/files/papers/klee-array-17.pdf)
-- [Automatic testing of symbolic execution engines via program generation and differential testing](https://srg.doc.ic.ac.uk/files/papers/symex-engine-tester-ase-17.pdf)
-- [Floating-point symbolic execution: a case study in n-version programming](https://srg.doc.ic.ac.uk/files/papers/klee-n-version-fp-ase-17.pdf)
-- [A DSL Approach to Reconcile Equivalent Divergent Program Executions](https://srg.doc.ic.ac.uk/files/papers/varan-dsl-atc-17.pdf)
-- [Analysing the program analyser](https://spiral.imperial.ac.uk/bitstream/10044/1/29767/8/16-analysers-v2025.pdf)
-- [Shadow of a doubt: testing for divergences between software versions](https://srg.doc.ic.ac.uk/files/papers/shadow-icse-16.pdf)
-- [Symbooglix: A Symbolic Execution Engine for Boogie Programs](https://www.doc.ic.ac.uk/~afd/homepages/papers/pdfs/2016/ICST.pdf)
-- [VARAN the Unbelievable: An Efficient N-version Execution Framework](https://srg.doc.ic.ac.uk/files/papers/varan-asplos-15.pdf)
-- [Targeted program transformations for symbolic execution](https://www.doc.ic.ac.uk/~cristic/papers/symex-transf-fse-ni-15.pdf)
-- [Shadow symbolic execution for better testing of evolving software](https://srg.doc.ic.ac.uk/files/papers/shadow-icse-nier-14.pdf)
-- [Covrig: a framework for the analysis of code, test, and coverage evolution in real software](https://spiral.imperial.ac.uk/bitstream/10044/1/23359/2/covrig-issta-14.pdf)
-- [Multi-solver Support in Symbolic Execution](https://srg.doc.ic.ac.uk/files/papers/klee-multisolver-cav-13.pdf)
 - [RetroWrite: Statically Instrumenting COTS Binaries for Fuzzing and Sanitization](https://hexhive.epfl.ch/publications/files/20Oakland.pdf)
 - [FuZZan: Efficient Sanitizer Metadata Design for Fuzzing](https://www.usenix.org/system/files/atc20-jeon.pdf)
-- [USBFuzz: A Framework for Fuzzing USB Drivers by Device Emulation](https://www.usenix.org/system/files/sec20-peng_0.pdf)
 - [BLESA: Spoofing Attacks against Reconnections in Bluetooth Low Energy](https://www.usenix.org/system/files/woot20-paper-wu.pdf)
-- [FirmFuzz: Automated IoT Firmware Introspection and Analysis](http://web.mit.edu/ha22286/www/papers/IoTS&P19.pdf)
 - [SMoTherSpectre: Exploiting Speculative Execution through Port Contention](https://arxiv.org/pdf/1903.01843.pdf)
 - [PoLPer: Process-Aware Restriction of Over-Privileged Setuid Calls in Legacy Applications](https://chungkim.io/doc/codaspy19-polper.pdf)
 - [BenchIoT: A Security Benchmark for the Internet of Things](https://hexhive.epfl.ch/publications/files/19DSN.pdf)
@@ -214,7 +196,6 @@ Table of contents:
 - [Milkomeda: Safeguarding the Mobile GPU Interface Using WebGL Security Checks](https://nebelwelt.net/files/18CCS2.pdf)
 - [Block Oriented Programming: Automating Data-Only Attacks](https://arxiv.org/pdf/1805.04767.pdf)
 - [CFIXX: Object Type Integrity for C++](https://hexhive.epfl.ch/publications/files/18NDSS.pdf)
-- [T-Fuzz: Fuzzing by Program Transformation](https://www.yancomm.net/papers/2018%20-%20SP%20-%20T-Fuzz.pdf)
 - [ACES: Automatic Compartments for Embedded Systems](https://engineering.purdue.edu/dcsl/publications/papers/2018/aces_usenixsec18_revision.pdf)
 - [rev.ng: a unified binary analysis framework to recover CFGs and function boundaries](https://hexhive.epfl.ch/publications/files/17CC.pdf)
 - [Memory Safety for Embedded Devices with nesCheck](https://hexhive.epfl.ch/publications/files/17AsiaCCS2.pdf)
@@ -229,7 +210,6 @@ Table of contents:
 - [Fine-Grained Control-Flow Integrity for Kernel Software](https://nebelwelt.net/files/16EUROSP.pdf)
 - [VTrust: Regaining Trust on Virtual Calls](https://dingelish.com/vtrust.pdf)
 - [PSHAPE: Automatically Combining Gadgets for Arbitrary Method Execution](http://bodden.de/pubs/fbt+16pshape.pdf)
-- [malWASH: Washing Malware to Evade Dynamic Analysis](https://www.usenix.org/system/files/conference/woot16/woot16-paper-ispoglou.pdf)
 - [Klotski: Efficient Obfuscated Execution against Controlled-Channel Attacks](https://www.cs.ucr.edu/~csong/asplos20-klotski.pdf)
 - [PatchScope: Memory Object Centric Patch Diffing](https://www.cs.ucr.edu/~heng/pubs/PatchScope_ccs20.pdf)
 - [Chaser: An Enhanced Fault Injection Tool for Tracing Soft Errors in MPI Applications](https://www.cs.ucr.edu/~heng/pubs/Chaser.pdf)
@@ -240,12 +220,9 @@ Table of contents:
 - [ChaffyScript: Vulnerability-Agnostic Defense of JavaScript Exploits via Memory Perturbation](https://www.cs.ucr.edu/~heng/pubs/ChaffyScript_securecomm2019.pdf)
 - [FIRM-AFL: High-Throughput Greybox Fuzzing of IoT Firmware via Augmented Process Emulation](https://www.cs.ucr.edu/~heng/pubs/FirmAFL.pdf)
 - [DeepMem: Learning Graph Neural Network Models for Fast and Robust Memory Forensic Analysis](https://www.cs.ucr.edu/~heng/pubs/deepmem_ccs18.pdf)
-- [Things You May Not Know About Android (Un)Packers: A Systematic Study based on Whole-System Emulation](https://homes.luddy.indiana.edu/xw7/papers/duan2018ndss.pdf)
-- [Measuring and Disrupting Anti-Adblockers Using Differential Execution Analysis](https://homepage.divms.uiowa.edu/~mshafiq/files/adblock-ndss2018.pdf)
 - [Extracting Conditional Formulas for Cross-Platform Bug Search](https://www.cs.ucr.edu/~heng/pubs/asiaccs2017.pdf)
 - [Neural Network-based Graph Embedding for Cross-Platform Binary Code Similarity Detection](https://arxiv.org/pdf/1708.06525.pdf)
-- [Dark Hazard: Learning-based, Large-Scale Discovery of Hidden Sensitive Operations in Android Apps](https://www.cs.ucr.edu/~heng/pubs/ndss2017.pdf)
-- [JSForce: A Forced Execution Engine for Malicious JavaScript Detection](https://arxiv.org/pdf/1701.07860.pdf)
+
 
 
 ## Cyber-physical
@@ -267,7 +244,21 @@ Table of contents:
 - [Enhancing Symbolic Execution with Veritesting](https://users.ece.cmu.edu/~aavgerin/papers/veritesting-icse-2014.pdf)
 - [SYMBION: Interleaving Symbolic with Concrete Execution](https://seclab.cs.ucsb.edu/files/publications/gritti2020_symbion.pdf)
 - [AutoPandas: Neural-Backed Generators for ProgramSynthesis](https://people.eecs.berkeley.edu/~ksen/papers/autopandas2.pdf)
-- 
+- [Chopped symbolic execution](https://srg.doc.ic.ac.uk/files/papers/chopper-icse-18.pdf)
+- [PARTI: a multi-interval theory solver for symbolic execution](https://srg.doc.ic.ac.uk/files/papers/parti-ase-18.pdf)
+- [Accelerating array constraints in symbolic execution](https://srg.doc.ic.ac.uk/files/papers/klee-array-17.pdf)
+- [Automatic testing of symbolic execution engines via program generation and differential testing](https://srg.doc.ic.ac.uk/files/papers/symex-engine-tester-ase-17.pdf)
+- [Floating-point symbolic execution: a case study in n-version programming](https://srg.doc.ic.ac.uk/files/papers/klee-n-version-fp-ase-17.pdf)
+- [A DSL Approach to Reconcile Equivalent Divergent Program Executions](https://srg.doc.ic.ac.uk/files/papers/varan-dsl-atc-17.pdf)
+- [Analysing the program analyser](https://spiral.imperial.ac.uk/bitstream/10044/1/29767/8/16-analysers-v2025.pdf)
+- [Shadow of a doubt: testing for divergences between software versions](https://srg.doc.ic.ac.uk/files/papers/shadow-icse-16.pdf)
+- [Symbooglix: A Symbolic Execution Engine for Boogie Programs](https://www.doc.ic.ac.uk/~afd/homepages/papers/pdfs/2016/ICST.pdf)
+- [VARAN the Unbelievable: An Efficient N-version Execution Framework](https://srg.doc.ic.ac.uk/files/papers/varan-asplos-15.pdf)
+- [Targeted program transformations for symbolic execution](https://www.doc.ic.ac.uk/~cristic/papers/symex-transf-fse-ni-15.pdf)
+- [Shadow symbolic execution for better testing of evolving software](https://srg.doc.ic.ac.uk/files/papers/shadow-icse-nier-14.pdf)
+- [Covrig: a framework for the analysis of code, test, and coverage evolution in real software](https://spiral.imperial.ac.uk/bitstream/10044/1/23359/2/covrig-issta-14.pdf)
+- [Multi-solver Support in Symbolic Execution](https://srg.doc.ic.ac.uk/files/papers/klee-multisolver-cav-13.pdf)
+
 
 
 ## Program instrumentation
@@ -300,6 +291,8 @@ Table of contents:
 
 ## Fuzzing
 - [An Empirical Study of the Reliability of UNIX Utilities](ftp://ftp.cs.wisc.edu/paradyn/technical_papers/fuzz.pdf)
+- [USBFuzz: A Framework for Fuzzing USB Drivers by Device Emulation](https://www.usenix.org/system/files/sec20-peng_0.pdf)
+- [FirmFuzz: Automated IoT Firmware Introspection and Analysis](http://web.mit.edu/ha22286/www/papers/IoTS&P19.pdf)
 - [Evaluating Fuzz Testing](https://arxiv.org/pdf/1808.09700.pdf)
 - [Billions and Billions of Constraints: Whitebox Fuzz Testing in Production](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/main-may10.pdf)
 - [Fuzzing: The State of the Art](https://fuzzinginfo.files.wordpress.com/2012/05/dsto-tn-1043-pr.pdf)
@@ -307,6 +300,7 @@ Table of contents:
 - [Automated Test Input Generation for Android: Are We There Yet?](https://arxiv.org/pdf/1503.07217.pdf)
 - [Send Hardest Problems My Way: Probabilistic Path Prioritization for Hybrid Fuzzing](https://www.cs.ucr.edu/~heng/pubs/digfuzz_ndss19.pdf)
 - [Scheduling Black-box Mutational Fuzzing](https://users.ece.cmu.edu/~sangkilc/papers/ccs13-woo.pdf)
+- [T-Fuzz: Fuzzing by Program Transformation](https://www.yancomm.net/papers/2018%20-%20SP%20-%20T-Fuzz.pdf)
 - [Hawkeye: Towards a Desired Directed Grey-box Fuzzer](https://chenbihuan.github.io/paper/ccs18-chen-hawkeye.pdf)
 - [Taint-based Directed Whitebox Fuzzing](https://people.csail.mit.edu/rinard/paper/icse09.pdf)
 - [Detecting Atomic-Set Serializability Violations in Multithreaded Programs through Active Randomized Testing](https://www.cs.cityu.edu.hk/~wkchan/papers/icse10-lai+cheung+chan.pdf)
@@ -493,10 +487,13 @@ Table of contents:
 - [Using Loops For Malware Classification Resilient to Feature-unaware Perturbations](https://sites.cs.ucsb.edu/~chris/research/doc/acsac18_loops.pdf)
 - [Cloud Strife: Mitigating the Security Risks of Domain-Validated Certificates](https://sites.cs.ucsb.edu/~vigna/publications/2018_NDSS_CloudStrife.pdf)
 - [MineSweeper: An In-depth Look into Drive-by Cryptocurrency Mining and Its Defense](https://download.vusec.net/papers/minesweeper_ccs18.pdf)
-
-
-
-
+- [Dark Hazard: Learning-based, Large-Scale Discovery of Hidden Sensitive Operations in Android Apps](https://www.cs.ucr.edu/~heng/pubs/ndss2017.pdf)
+- [JSForce: A Forced Execution Engine for Malicious JavaScript Detection](https://arxiv.org/pdf/1701.07860.pdf)
+- [Things You May Not Know About Android (Un)Packers: A Systematic Study based on Whole-System Emulation](https://homes.luddy.indiana.edu/xw7/papers/duan2018ndss.pdf)
+- [Measuring and Disrupting Anti-Adblockers Using Differential Execution Analysis](https://homepage.divms.uiowa.edu/~mshafiq/files/adblock-ndss2018.pdf)
+- [malWASH: Washing Malware to Evade Dynamic Analysis](https://www.usenix.org/system/files/conference/woot16/woot16-paper-ispoglou.pdf)
+- [Jarhead analysis and detection of malicious Java applets](https://publications.sba-research.org/publications/acsac12_jarhead.pdf)
+- [Blacksheep: detecting compromised hosts in homogeneous crowds](https://www.yancomm.net/papers/2012%20-%20CCS%20-%20Blacksheep.pdf)
 
 
 ## Binary analysis
