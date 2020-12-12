@@ -41,6 +41,8 @@ python ./auto_download.py Malware
 # Papers
 Table of contents:
 * [General](#General)
+* [Cyber-physical](#Cyber-physical)
+* [Symbolic execution](#Symbolic-execution)
 * [Virtualisation](#Virtualisation)
 * [Fuzzing](#Fuzzing)
 * [Malware](#Malware)
