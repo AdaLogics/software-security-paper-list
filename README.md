@@ -179,7 +179,26 @@ Table of contents:
 - [PUBCRAWL: Protecting Users and Businesses from CRAWLers](https://sites.cs.ucsb.edu/~vigna/publications/2012_USENIX_pubcrawl.pdf)
 - [Enemy of the State: A State-Aware Black-Box Web Vulnerability Scanner](https://www.usenix.org/system/files/conference/usenixsecurity12/sec12-final225.pdf)
 - [Poultry markets: on the underground economy of twitter followers](https://seclab.bu.edu/people/gianluca/papers/poultry-WOSN12.pdf)
-
+- [Running symbolic execution forever](https://srg.doc.ic.ac.uk/files/papers/moklee-issta-20.pdf)
+- [Past-sensitive pointer analysis for symbolic execution](https://srg.doc.ic.ac.uk/files/papers/pastsensitive-fse-20.pdf)
+- [MVEDSUA: Higher Availability Dynamic Software Updates via Multi-Version Execution](http://www.cs.umd.edu/~mwh/papers/mvedsua.pdf)
+- [Computing summaries of string loops in C for better testing and refactoring](https://srg.doc.ic.ac.uk/files/papers/loops-pldi-19.pdf)
+- [A segmented memory model for symbolic execution](https://srg.doc.ic.ac.uk/files/papers/segmem-esecfse-19.pdf)
+- [FreeDA: deploying incompatible stock dynamic analyses in production via multi-version execution](https://srg.doc.ic.ac.uk/files/papers/freeda-cf-18.pdf)
+- [Chopped symbolic execution](https://srg.doc.ic.ac.uk/files/papers/chopper-icse-18.pdf)
+- [PARTI: a multi-interval theory solver for symbolic execution](https://srg.doc.ic.ac.uk/files/papers/parti-ase-18.pdf)
+- [Accelerating array constraints in symbolic execution](https://srg.doc.ic.ac.uk/files/papers/klee-array-17.pdf)
+- [Automatic testing of symbolic execution engines via program generation and differential testing](https://srg.doc.ic.ac.uk/files/papers/symex-engine-tester-ase-17.pdf)
+- [Floating-point symbolic execution: a case study in n-version programming](https://srg.doc.ic.ac.uk/files/papers/klee-n-version-fp-ase-17.pdf)
+- [A DSL Approach to Reconcile Equivalent Divergent Program Executions](https://srg.doc.ic.ac.uk/files/papers/varan-dsl-atc-17.pdf)
+- [Analysing the program analyser](https://spiral.imperial.ac.uk/bitstream/10044/1/29767/8/16-analysers-v2025.pdf)
+- [Shadow of a doubt: testing for divergences between software versions](https://srg.doc.ic.ac.uk/files/papers/shadow-icse-16.pdf)
+- [Symbooglix: A Symbolic Execution Engine for Boogie Programs](https://www.doc.ic.ac.uk/~afd/homepages/papers/pdfs/2016/ICST.pdf)
+- [VARAN the Unbelievable: An Efficient N-version Execution Framework](https://srg.doc.ic.ac.uk/files/papers/varan-asplos-15.pdf)
+- [Targeted program transformations for symbolic execution](https://www.doc.ic.ac.uk/~cristic/papers/symex-transf-fse-ni-15.pdf)
+- [Shadow symbolic execution for better testing of evolving software](https://srg.doc.ic.ac.uk/files/papers/shadow-icse-nier-14.pdf)
+- [Covrig: a framework for the analysis of code, test, and coverage evolution in real software](https://spiral.imperial.ac.uk/bitstream/10044/1/23359/2/covrig-issta-14.pdf)
+- [Multi-solver Support in Symbolic Execution](https://srg.doc.ic.ac.uk/files/papers/klee-multisolver-cav-13.pdf)
 
 
 
