@@ -160,7 +160,7 @@ Table of contents:
 - [PEBIL: Efficient Static Binary Instrumentation for Linux](http://users.sdsc.edu/~lcarring/Papers/2010_ISPASS.pdf)
 - [DECAF++: Elastic Whole-System Dynamic Taint Analysis](https://www.cs.ucr.edu/~heng/pubs/DECAF++.pdf)
 - [Make It Work, Make It Right, Make It Fast: Building a Platform-Neutral Whole-System Dynamic Binary Analysis Platform](https://www.cs.ucr.edu/~heng/pubs/issta14.pdf)
-- [Repeateable Reverse Engineering for the Greateer Good with PANDA](https://mice.cs.columbia.edu/getTechreport.php?techreportID=1588&disposition=inline&format=pdf)
+- [Repeateable Reverse Engineering for the Greater Good with PANDA](https://mice.cs.columbia.edu/getTechreport.php?techreportID=1588&disposition=inline&format=pdf)
 
 
 ## Sanitizer
