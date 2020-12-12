@@ -228,7 +228,7 @@ Table of contents:
 - [TypeSan: Practical Type Confusion Detection](https://nebelwelt.net/publications/files/16CCS2.pdf)
 - [Fine-Grained Control-Flow Integrity for Kernel Software](https://nebelwelt.net/files/16EUROSP.pdf)
 - [VTrust: Regaining Trust on Virtual Calls](https://dingelish.com/vtrust.pdf)
-- [PSHAPE: Automatically Combining Gadgets for Arbitrary Method Execution](PSHAPE: Automatically Combining Gadgets for Arbitrary Method Execution)
+- [PSHAPE: Automatically Combining Gadgets for Arbitrary Method Execution](http://bodden.de/pubs/fbt+16pshape.pdf)
 - [malWASH: Washing Malware to Evade Dynamic Analysis](https://www.usenix.org/system/files/conference/woot16/woot16-paper-ispoglou.pdf)
 - [Klotski: Efficient Obfuscated Execution against Controlled-Channel Attacks](https://www.cs.ucr.edu/~csong/asplos20-klotski.pdf)
 - [PatchScope: Memory Object Centric Patch Diffing](https://www.cs.ucr.edu/~heng/pubs/PatchScope_ccs20.pdf)
