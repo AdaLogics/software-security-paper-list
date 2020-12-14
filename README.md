@@ -42,7 +42,7 @@ python ./auto_download.py Malware
 Table of contents:
 * [General](#General)
 * [Android](#Android)
-* [Control-flow integrity](#Control-flow_integrity)
+* [Control-flow integrity](#control-flow-integrity)
 * [Cyber-physical](#Cyber-physical)
 * [Symbolic execution](#Symbolic-execution)
 * [Virtualisation](#Virtualisation)
