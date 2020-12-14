@@ -41,6 +41,8 @@ python ./auto_download.py Malware
 # Papers
 Table of contents:
 * [General](#General)
+* [Android](#Android)
+* [Control-flow integrity](#Control-flow_integrity)
 * [Cyber-physical](#Cyber-physical)
 * [Symbolic execution](#Symbolic-execution)
 * [Virtualisation](#Virtualisation)
@@ -186,18 +188,11 @@ Table of contents:
 - [Klotski: Efficient Obfuscated Execution against Controlled-Channel Attacks](https://www.cs.ucr.edu/~csong/asplos20-klotski.pdf)
 - [PatchScope: Memory Object Centric Patch Diffing](https://www.cs.ucr.edu/~heng/pubs/PatchScope_ccs20.pdf)
 - [Chaser: An Enhanced Fault Injection Tool for Tracing Soft Errors in MPI Applications](https://www.cs.ucr.edu/~heng/pubs/Chaser.pdf)
-
-
-
-
 - [ChaffyScript: Vulnerability-Agnostic Defense of JavaScript Exploits via Memory Perturbation](https://www.cs.ucr.edu/~heng/pubs/ChaffyScript_securecomm2019.pdf)
-
-
 - [Extracting Conditional Formulas for Cross-Platform Bug Search](https://www.cs.ucr.edu/~heng/pubs/asiaccs2017.pdf)
 - [Neural Network-based Graph Embedding for Cross-Platform Binary Code Similarity Detection](https://arxiv.org/pdf/1708.06525.pdf)
 - [SoK: Cyber Insurance - Technical Challenges and a System Security Roadmap](https://oaklandsok.github.io/papers/dambra2020.pdf)
 - [BakingTimer: privacy analysis of server-side request processing time](https://igor-santos.net/papers/2019/2019-sanchez-rola-acsac-bakingtimer.pdf)
-
 - [Data-Confined HTML5 Applications](https://devd.me/papers/dcs-esorics.pdf)
 - [SoK: Eternal War in Memory](https://people.eecs.berkeley.edu/~dawnsong/papers/Oakland13-SoK-CR.pdf)
 - [High System-Code Security with Low Overhead](https://pure.royalholloway.ac.uk/portal/files/25073434/oakland15.pdf)
