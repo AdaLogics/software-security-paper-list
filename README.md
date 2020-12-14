@@ -224,8 +224,15 @@ Table of contents:
 - [DeepMem: Learning Graph Neural Network Models for Fast and Robust Memory Forensic Analysis](https://www.cs.ucr.edu/~heng/pubs/deepmem_ccs18.pdf)
 - [Extracting Conditional Formulas for Cross-Platform Bug Search](https://www.cs.ucr.edu/~heng/pubs/asiaccs2017.pdf)
 - [Neural Network-based Graph Embedding for Cross-Platform Binary Code Similarity Detection](https://arxiv.org/pdf/1708.06525.pdf)
-
-
+- [SoK: Cyber Insurance - Technical Challenges and a System Security Roadmap](https://oaklandsok.github.io/papers/dambra2020.pdf)
+- [BakingTimer: privacy analysis of server-side request processing time](https://igor-santos.net/papers/2019/2019-sanchez-rola-acsac-bakingtimer.pdf)
+- [HI-CFG: Construction by Binary Analysis and Application to Attack Polymorphism](https://core.ac.uk/download/pdf/189202772.pdf)
+- [Data-Confined HTML5 Applications](https://devd.me/papers/dcs-esorics.pdf)
+- [SoK: Eternal War in Memory](https://people.eecs.berkeley.edu/~dawnsong/papers/Oakland13-SoK-CR.pdf)
+- [High System-Code Security with Low Overhead](https://pure.royalholloway.ac.uk/portal/files/25073434/oakland15.pdf)
+- [Code-Pointer Integrity](https://www.usenix.org/system/files/conference/osdi14/osdi14-paper-kuznetsov.pdf)
+- [-OVERIFY: Optimizing Programs for Fast Verification](https://www.usenix.org/system/files/conference/hotos13/hotos13-final69.pdf)
+- [Enabling sophisticated analyses of ×86 binaries with RevGen](https://dslab.epfl.ch/pubs/revgen.pdf)
 
 ## Cyber-physical
 - [TRUST.IO: Protecting Physical Interfaces on Cyber-physical Systems](https://seclab.cs.ucsb.edu/files/publications/Spensky2020_Trust.pdf)
@@ -260,7 +267,8 @@ Table of contents:
 - [Shadow symbolic execution for better testing of evolving software](https://srg.doc.ic.ac.uk/files/papers/shadow-icse-nier-14.pdf)
 - [Covrig: a framework for the analysis of code, test, and coverage evolution in real software](https://spiral.imperial.ac.uk/bitstream/10044/1/23359/2/covrig-issta-14.pdf)
 - [Multi-solver Support in Symbolic Execution](https://srg.doc.ic.ac.uk/files/papers/klee-multisolver-cav-13.pdf)
-
+- [Efficient State Merging in Symbolic Execution](https://www.unibw.de/patch/papers/pldi12.pdf/@@download/file/pldi12.pdf)
+- [Testing Closed-Source Binary Device Drivers with DDT](https://www.usenix.org/legacy/events/atc10/tech/full_papers/Kuznetsov.pdf)
 
 
 ## Program instrumentation
