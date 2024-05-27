@@ -51,6 +51,7 @@ Table of contents:
 * [Binary analysis](#binary-analysis)
 
 ## General
+- [Bag of On-Phone ANNs to Secure IoT Objects Using Wearable and Smartphone Biometrics](https://ieeexplore.ieee.org/document/10106441)
 - [A Randomized Dynamic Program Analysis Technique for Detecting Real Deadlocks](https://www.cis.upenn.edu/~mhnaik/papers/pldi09b.pdf)
 - [Randomized Active Atomicity Violation Detection in Concurrent Programs](https://parlab.eecs.berkeley.edu/sites/all/parlab/files/Randomized%20Active%20Atomicity%20Violation%20Detection%20in%20Concurrent%20Programs.pdf)
 - [Privacy Oracle: a System for Finding Application Leaks with Black Box Differential Testing](https://homes.cs.washington.edu/~yoshi/papers/PrivacyOracle/privacyoracle-ccs2008.pdf)
