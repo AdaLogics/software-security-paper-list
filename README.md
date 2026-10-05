@@ -51,6 +51,10 @@ Table of contents:
 * [Binary analysis](#binary-analysis)
 
 ## General
+- [PerSpectron: Detecting Invariant Footprints of Microarchitectural Attacks with Perceptron](https://microarch.org/micro53/papers/738300b124.pdf)
+- [EVAX: Towards a Practical, Pro-active & Adaptive Architecture for High Performance & Security](https://cseweb.ucsd.edu/~tullsen/evax.pdf)
+- [An Attack on The Speculative Vectorization: Leakage from Higher Dimensional Speculation](https://arxiv.org/pdf/2302.01131) (arXiv preprint, 2023)
+- [Exploiting Intel AMX Power Gating](https://doi.org/10.1109/LCA.2025.3555183) (NetLoki, IEEE Computer Architecture Letters, 2025)
 - [Bag of On-Phone ANNs to Secure IoT Objects Using Wearable and Smartphone Biometrics](https://ieeexplore.ieee.org/document/10106441)
 - [A Randomized Dynamic Program Analysis Technique for Detecting Real Deadlocks](https://www.cis.upenn.edu/~mhnaik/papers/pldi09b.pdf)
 - [Randomized Active Atomicity Violation Detection in Concurrent Programs](https://parlab.eecs.berkeley.edu/sites/all/parlab/files/Randomized%20Active%20Atomicity%20Violation%20Detection%20in%20Concurrent%20Programs.pdf)
